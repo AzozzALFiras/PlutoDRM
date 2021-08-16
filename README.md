@@ -15,7 +15,7 @@ If you're using DRMUtils, you can call import it into your tweaks.
 
 ```
 
-Make sure you've set up the macros in DRMUtils.m beforehand.
+Make sure you've set up the macros in PlutoDRMRequest.m beforehand.
 
 ```objective-c
 #define API_URL @"https://YOUR_SERVER_HERE"
