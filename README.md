@@ -8,7 +8,7 @@ Please use HTTPS if you are going to use it on your own server.
 
 ## Usage
 
-If you're using DRMUtils, you can call import it into your tweaks.
+If you're using PlutoDRM, you can call import it into your tweaks.
 
 ```objective-c
 #import "PlutoDRMRequest.h"
