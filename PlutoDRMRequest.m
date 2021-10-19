@@ -15,8 +15,6 @@ dispatch_semaphore_t mySemaphore = dispatch_semaphore_create(0);
 
 __block int statusCode;
 
-NSData *NSDataCRV = [[NSData alloc]initWithBase64EncodedString:@"MVFBWlhTRUYzWk9aWjA5ODE4MzI5OTExNTM5MTkyMkFaT0RX" options:0];
-NSString *CheckedNSDataCRV = [[NSString alloc] initWithData:NSDataCRV encoding:NSUTF8StringEncoding];
 
 
 
